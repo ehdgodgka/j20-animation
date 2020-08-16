@@ -1,6 +1,9 @@
 # animation 
 <img src='assets/demo.gif'>
 
+[live-server](https://ehdgodgka.github.io/j20-animation)
+
+---
 - add animation to tailwind starter kit templete
 - AOS(animation on scroll library)
   
